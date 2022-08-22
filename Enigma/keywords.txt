@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For Crypto
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Enigma	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Rotor	KEYWORD2
+isLettre	KEYWORD2
+letter2int	KEYWORD2
+int2letter	KEYWORD2
+loadKey	KEYWORD2
+key2char	KEYWORD2
+valInArray	KEYWORD2
+createRotor	KEYWORD2
+createReflector	KEYWORD2
+cypher	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+A	LITERAL1
+Bw	LITERAL1
+Bt	LITERAL1
+Cw	LITERAL1
+Ct	LITERAL1
+
+I	LITERAL1
+II	LITERAL1
+III	LITERAL1
+IV	LITERAL1
+V	LITERAL1
+VI	LITERAL1
+VII	LITERAL1
+VIII	LITERAL1
