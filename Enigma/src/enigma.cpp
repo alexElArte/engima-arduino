@@ -1,5 +1,5 @@
 /*
-	Crypto.cpp - Library for emulate Enigma cypher.
+	Enigma.cpp - Library for emulate Enigma cypher.
 	Created by Alexandre.M, August 18, 2022.
 	Released into the public domain.
 */
